@@ -1,6 +1,7 @@
 # Social Media App
 
-This is a simple social media application built with React, using Context API and `useReducer` for state management. The app allows users to add and delete posts. It uses Bootstrap and Tailwind CSS for styling.
+This is a simple social media application built with React, using Context API and `useReducer` for state management. The app allows users to add and delete posts. It uses Bootstrap and Tailwind CSS for styling.<br>
+https://socialnetworkapptayyab.netlify.app/
 
 ## Features
 
